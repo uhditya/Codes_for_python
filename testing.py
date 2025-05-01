@@ -1,1 +1,1 @@
-uhditya = great
+hi = there = hello
